@@ -1,0 +1,7 @@
+gradio
+langchain
+transformers
+sentence-transformers
+torch
+#faiss-cpu choose one of these based on your system
+#faiss-gpu
